@@ -19,4 +19,5 @@ if (isset($_POST["op"]) and ctype_digit($_POST["a"]) and ctype_digit($_POST["b"]
             break;
     }
     echo "resultado= " . $result;
+    //teste
 }
